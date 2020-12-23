@@ -1,4 +1,4 @@
-### Hi there 👋
+![Choyoonyoung98's github stats](https://github-readme-stats.vercel.app/api?username=Choyoonyoung98&show_icons=true&theme=merko)
 
 <!--
 **Choyoonyoung98/Choyoonyoung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
