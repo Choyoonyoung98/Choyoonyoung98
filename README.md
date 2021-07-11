@@ -1,7 +1,7 @@
 ### Hi there 👋   
  - 👩🏻‍💼   Junior iOS Developer
 - 💻   usually using Swift language for programmming
-- 🇰🇷  **I'm working in South Korea**
+- 🇰🇷  I'm working in South Korea
 
 <br/>
 
